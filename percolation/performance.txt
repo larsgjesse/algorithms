@@ -1,0 +1,7 @@
+n      Time per percolation (ms)
+       QuickFindUF   WeightedQuickUnionUF     
+50     1,0           0,116
+72     4,3           0,22
+100    16,2          0,42
+144    64            0,88
+200    245           1,74
