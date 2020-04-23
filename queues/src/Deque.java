@@ -133,7 +133,7 @@ public class Deque<Item> implements Iterable<Item> {
 
     // unit testing (required)
     public static void main(String[] args) {
-    	
+        // Intentionally empty - tests are JUnit tests in a separate class
     }
 
 }
